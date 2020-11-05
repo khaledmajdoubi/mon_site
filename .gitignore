@@ -1,4 +1,9 @@
 tmp/*
 tmp/todo.txt
 *.xml
+<<<<<<< HEAD
 *.pwd
+=======
+*.csv
+*.pwd
+>>>>>>> cbeb891ab5161cee0f0114e33094fdec4612aa6a
