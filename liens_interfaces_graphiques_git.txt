@@ -1,0 +1,11 @@
+Liste des interfaces graphiques pour Git:
+https://git-scm.com/downloads/guis/
+
+Git dans VS Code:
+https://code.visualstudio.com/docs/editor/versioncontrol
+
+Git dans Qt creator:
+https://doc.qt.io/qtcreator/creator-vcs-git.html
+
+Git Dans Visual Studio de Microsoft:
+https://msdn.microsoft.com/fr-fr/library/hh850437(v=vs.120).aspx
